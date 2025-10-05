@@ -1,0 +1,18 @@
+{
+  "Sample Full Search 4.pdf": {
+    "category": "Miscellaneous",
+    "confidence": "low",
+    "notes": "",
+    "extraction_method": "unknown",
+    "timestamp": "2025-10-05T21:23:15.643999",
+    "organized_path": null
+  },
+  "/Users/desh/zitles/mcp-tutorial/property-classifier-mcp/documents/Sample Full Search 4.pdf": {
+    "category": "Miscellaneous",
+    "confidence": "high",
+    "notes": "Multi-document file containing various property document types that need to be separated and individually classified by page range",
+    "extraction_method": "direct_extraction",
+    "timestamp": "2025-10-05T21:27:23.304447",
+    "organized_path": null
+  }
+}
