@@ -21,10 +21,6 @@ This MCP server connects Claude Desktop to your local property documents and ena
 - **Metadata tracking** with confidence scores
 - **Search and statistics** tools
 
-## Demo
-
-![Demo GIF](docs/screenshots/demo.gif)
-
 ## Document Categories
 
 The server classifies documents into 20 property-related categories:
